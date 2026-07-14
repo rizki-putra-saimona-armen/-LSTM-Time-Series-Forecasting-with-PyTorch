@@ -25,7 +25,7 @@ Proyek ini cocok sebagai referensi belajar:
 
 ```
 .
-├── Part_4_-_LSTM_With_Pytorch_copy.ipynb   # Notebook utama
+├── LSTM_With_Pytorch.ipynb   # Notebook utama
 ├── data/
 │   └── daily_min_temp.csv                  # Dataset suhu harian
 ├── utils.py                                 # Helper: data4pred & pred4pred
